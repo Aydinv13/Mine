@@ -1,3 +1,3 @@
 @@mail.ru
-||yandex.ru
+@@yandex.ru
 ||rambler.ru
